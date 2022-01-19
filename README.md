@@ -23,6 +23,8 @@ Class deep learning links :
 
 * https://github.com/fastai/fastbook
 
+* Open source INSA Toulouse machine learning : https://github.com/wikistat/AI-Frameworks
+
 
 # Application of Artificial Intelligence (AI) in Prosthetic and Orthotic Rehabilitation #
 
