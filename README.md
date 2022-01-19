@@ -42,17 +42,6 @@ Class deep learning links :
 Source pdf : 
 [research_prostethic.pdf](https://github.com/Mohamed-Khalil67/Deep-Learning/files/7890650/research_prostethic.pdf)
 
-
-### Note book `Intro` : 
-
-- Notes écrit sur deux lessons de machine learning de https://course.fast.ai/ .
-
-### Note Book `Atelier-Keras` :
-
-- Notes écrti sur le gitlab du benjamin dellard
-- Original source : https://github.com/wikistat/AI-Frameworks
-- Benjamin git : https://gist.github.com/bdallard/ed166ad884491c191d877c07e0b18008
-
 #### Library documentation :
 
 * Keras : https://keras.io/
@@ -64,7 +53,18 @@ Source pdf :
 
 ![image](https://user-images.githubusercontent.com/71330579/150116052-90491b6a-2718-442c-9665-da57d5085176.png)
 
-Features avec VGG16 :- 
+### Note book `Intro` : 
+
+- Notes écrit sur deux lessons de machine learning de https://course.fast.ai/ .
+
+### Note Book `Atelier-Keras` :
+
+- Notes écrti sur le gitlab du benjamin dellard
+- Original source : https://github.com/wikistat/AI-Frameworks
+- Benjamin git : https://gist.github.com/bdallard/ed166ad884491c191d877c07e0b18008
+
+
+- Features avec VGG16 :- 
 
 ```
 from tensorflow.keras.applications.vgg16 import VGG16
@@ -82,3 +82,9 @@ x = preprocess_input(x)
 
 features = model.predict(x)
 ```
+Error correction in Atelia code :
+
+```
+import tensorflow.keras.applications as ka
+```
+
