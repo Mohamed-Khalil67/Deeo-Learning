@@ -48,4 +48,8 @@ Source pdf :
 
 ![image](https://user-images.githubusercontent.com/71330579/150099895-a85c7f2f-ada8-4070-9c20-35be02bee55a.png)
 
-* Tensoflow : https://www.tensorflow.org/api_docs/python/tf/all_symbols
+
+`Keras applications` :
+
+![image](https://user-images.githubusercontent.com/71330579/150116052-90491b6a-2718-442c-9665-da57d5085176.png)
+
