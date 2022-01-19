@@ -32,11 +32,11 @@ Source pdf :
 [research_prostethic.pdf](https://github.com/Mohamed-Khalil67/Deep-Learning/files/7890650/research_prostethic.pdf)
 
 
-### Note book 'Intro' : 
+### Note book `Intro` : 
 
 - Notes écrit sur deux lessons de machine learning de https://course.fast.ai/ .
 
-### Note Book 'Keras_Cats-VS-Dogs' :
+### Note Book `Keras_Cats-VS-Dogs` :
 
 - Notes écrti sur le gitlab du benjamin dellard
 - Original source : https://github.com/wikistat/AI-Frameworks
