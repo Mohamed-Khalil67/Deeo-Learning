@@ -36,7 +36,7 @@ Source pdf :
 
 - Notes écrit sur deux lessons de machine learning de https://course.fast.ai/ .
 
-### Note Book `Keras_Cats-VS-Dogs` :
+### Note Book `Atelier-Keras` :
 
 - Notes écrti sur le gitlab du benjamin dellard
 - Original source : https://github.com/wikistat/AI-Frameworks
