@@ -31,3 +31,21 @@ Class deep learning links :
 Source pdf : 
 [research_prostethic.pdf](https://github.com/Mohamed-Khalil67/Deep-Learning/files/7890650/research_prostethic.pdf)
 
+
+### Note book 'Intro' : 
+
+- Notes écrit sur deux lessons de machine learning de https://course.fast.ai/ .
+
+### Note Book 'Keras_Cats-VS-Dogs' :
+
+- Notes écrti sur le gitlab du benjamin dellard
+- Original source : https://github.com/wikistat/AI-Frameworks
+- Benjamin git : https://gist.github.com/bdallard/ed166ad884491c191d877c07e0b18008
+
+#### Library documentary utilisé :
+
+* Keras : https://keras.io/
+
+![image](https://user-images.githubusercontent.com/71330579/150099895-a85c7f2f-ada8-4070-9c20-35be02bee55a.png)
+
+* Tensoflow : https://www.tensorflow.org/api_docs/python/tf/all_symbols
