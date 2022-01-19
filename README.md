@@ -10,6 +10,17 @@
 
 ![image](https://user-images.githubusercontent.com/71330579/149942828-f307ecb9-7cf7-4c62-9e54-f3c2c5352018.png)
 
+### Réseau neurones sites :
+
+* https://www.cs.ryerson.ca/~aharley/vis/conv/
+
+* http://neuralnetworksanddeeplearning.com/chap1.html
+
+* http://cs231n.stanford.edu
+
+* https://www.whichfaceisreal.com
+
+* Trading bots : https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ
 
 Class deep learning links : 
 
