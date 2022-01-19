@@ -42,7 +42,7 @@ Source pdf :
 - Original source : https://github.com/wikistat/AI-Frameworks
 - Benjamin git : https://gist.github.com/bdallard/ed166ad884491c191d877c07e0b18008
 
-#### Library documentary utilisé :
+#### Library documentation :
 
 * Keras : https://keras.io/
 
